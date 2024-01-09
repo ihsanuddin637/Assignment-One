@@ -1,0 +1,43 @@
+.banner {
+    background-image: url("../images/Banner\ Image.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 75px 0;
+    border-radius: 16px;
+}
+
+.header {
+    padding: 50px 140px;
+}
+
+.heading1 {
+    color: #fff;
+    text-align: center;
+    font-family: "Merriweather", serif;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.heading2 {
+    color: #fff;
+    text-align: center;
+    font-family: "Merriweather", serif;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 95px;
+    width: 632px;
+    padding-left: 227px;
+}
+
+.discount_section {
+    text-align: center;
+}
+
+.dis_img {
+    width: 802.9px;
+    height: 500px;
+    flex-shrink: 0;
+}
